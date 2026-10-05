@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "minhas-skills",
+  "owner": {
+    "name": "apoli29"
+  },
+  "metadata": {
+    "description": "As skills do António para o Claude Code, num só sítio, para sessões locais e na nuvem."
+  },
+  "plugins": [
+    {
+      "name": "minhas-skills",
+      "description": "Skills pessoais do António.",
+      "version": "1.0.0",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

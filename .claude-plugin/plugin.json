@@ -1,0 +1,9 @@
+{
+  "name": "minhas-skills",
+  "description": "Skills pessoais do António.",
+  "version": "1.0.0",
+  "author": {
+    "name": "apoli29"
+  },
+  "repository": "https://github.com/apoli29/minhas-skills"
+}
